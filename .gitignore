@@ -1,4 +1,5 @@
-
+.idea
+*.iml
 /server/target
 /server/.classpath
 /server/.project
